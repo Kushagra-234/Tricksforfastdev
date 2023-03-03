@@ -1,0 +1,5 @@
+ if you want to make any card,text bigger than
+ transform: scale(1.08 or any other);
+
+ if you dont want to make other text flowing to right if you scroll right than 
+ overflow-x:hidden;
